@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+#red{
+    background-color: red;
+    width:100px;
+    height:100px;
+}
+#green{
+    background-color: green;
+    width:100px;
+    height:100px;
+}
+#blue{
+    background-color: blue;
+    width:100px;
+    height:100px;
+}
+.main{
+    display: flex;
+}
